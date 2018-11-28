@@ -1,3 +1,6 @@
-com\hoodps\netty\CustomHandler.class
 com\hoodps\netty\HelloServer.class
+com\hoodps\netty\websocket\ChatHandler.class
+com\hoodps\netty\websocket\WSServer.class
+com\hoodps\netty\CustomHandler.class
 com\hoodps\netty\HelloServerInitializer.class
+com\hoodps\netty\websocket\WSServerInitializer.class
